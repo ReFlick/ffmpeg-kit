@@ -201,6 +201,7 @@ public class Packages {
                     externalLibraryList.contains("libvorbis") &&
                     externalLibraryList.contains("opencore-amr") &&
                     externalLibraryList.contains("opus") &&
+                    externalLibraryList.contains("mp3lame") &&
                     externalLibraryList.contains("shine") &&
                     externalLibraryList.contains("soxr") &&
                     externalLibraryList.contains("speex") &&
